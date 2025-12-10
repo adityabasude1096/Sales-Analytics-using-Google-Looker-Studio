@@ -1,2 +1,9 @@
 # Sales-Analytics-using-Google-Looker-Studio
 All of the Training Assignments, Tasks, Dashboard, Reports are provided
+
+ALSO
+PROJECT DASHBOARD LINK OF GOOGLE LOOKER STUDIO
+
+
+Advanced Sales Analytics with Google Looker Studio Click on the below link to view the dashboard: 
+https://lookerstudio.google.com/reporting/f5ecc10e-c872-43e9-b53f-26a8d858d8bc
